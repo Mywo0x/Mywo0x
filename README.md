@@ -1,7 +1,7 @@
 ```bash
 > neofetch
 ```
-<img src="https://cdn.discordapp.com/attachments/1302712123339575448/1314680240202711181/tumblr_mrui2b3yp41sorll2o1_500.gif?ex=6754a6e2&is=67535562&hm=ef2da8f5d08e84b618b3632ccb79cdd02a26e45028046c2881eef6d97b79ac71&" align="left" width="250" height="298">
+<img src="https://cdn.discordapp.com/attachments/1302712123339575448/1314680240202711181/tumblr_mrui2b3yp41sorll2o1_500.gif?ex=6754a6e2&is=67535562&hm=ef2da8f5d08e84b618b3632ccb79cdd02a26e45028046c2881eef6d97b79ac71&" align="left" width="250" height="270">
 
 
 ```py
